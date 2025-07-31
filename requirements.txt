@@ -1,5 +1,10 @@
-torch
-transformers
+# ---- BASIC DEPENDENCIES ----
 streamlit
+transformers
+torch
 langchain
 langchain-community
+
+# ---- OPTIONAL but safer ----
+sentencepiece==0.1.99
+tokenizers==0.14.1
