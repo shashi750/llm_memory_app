@@ -1,5 +1,5 @@
-streamlit
-transformers
 torch
+transformers
+streamlit
 langchain
 langchain-community
